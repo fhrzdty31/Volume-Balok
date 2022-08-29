@@ -1,25 +1,23 @@
 # Volume Balok
 # TextField
 ## android studio : Flutter(Dart)
-### Fahreza Ditya Alfandry 19 / XI RPL 3
+### Fahreza Ditya Alfandry 19 / XII RPL 3
 
 <details>
-    <summary>Mobile Apps</summary>
+    <summary>Start Aplikasi</summary>
 
-### Mobile Apps
-#### Chat
-![Chat]()
-#### Group
-![Group]()
+![Start Aplikasi](https://github.com/fhrzdty31/Volume-Balok/blob/4665bc9d78ad3f3b5448fb2a708e3b3490033a58/screenshot/ss%20(2).jpg)
 
 </details>
 <details>
-    <summary>Web Apps</summary>
+    <summary>Input Text Field</summary>
 
-### Web Apps
-#### Chat
-![Chat]()
-#### Group
-![Group]()
+![Input Text Field](https://github.com/fhrzdty31/Volume-Balok/blob/4665bc9d78ad3f3b5448fb2a708e3b3490033a58/screenshot/ss%20(3).jpg)
+
+</details>
+<details>
+    <summary>Output</summary>
+
+![Output](https://github.com/fhrzdty31/Volume-Balok/blob/4665bc9d78ad3f3b5448fb2a708e3b3490033a58/screenshot/ss%20(1).jpg)
 
 </details>
